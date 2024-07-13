@@ -1,0 +1,11 @@
+{
+  "languages": {
+    "TypeScript": {
+      "formatter": {
+        "code_actions": {
+          "source.addMissingImports": true
+        }
+      }
+    }
+  }
+}
